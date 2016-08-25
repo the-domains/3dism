@@ -4,11 +4,18 @@
         <description><![CDATA[3D Printing, VR, Robotics, AI & More...]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 15:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 15:56:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[What is 3D printing? How does 3D printing work?]]></title>
+            <description><![CDATA[<article><h1>What is 3D printing? How does 3D printing work?</h1><p>3D printing or additive manufacturing is a process of making three dimensional solid objects from a digital file. The creation of a 3D printed object is achieved using additive processes. In an additive process an object is created by laying down successive layers of material until the object is created.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45e170cbc00905b0421330b36e26c5b303bd6443.jpg"></article>]]></description>
+            <link>http://3dprinting.com/what-is-3d-printing/#howtolearn3dprinting</link>
+            <guid isPermaLink="false">bb916cef-1a7d-4d0f-8fb4-21cecd587e18</guid>
+            <pubDate>Thu, 25 Aug 2016 15:56:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Shapeways | Gift Guide]]></title>
-            <description><![CDATA[<article><h1>Shapeways | Gift Guide</h1><p>Looking for the perfect gift? Our gift guide features many custom products: fashion, gadgets, hipster, miniatures, jewelry and more.</p><img src="https://static1.sw-cdn.net/files/cms/gift-guide/gg-2014-social-img.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Shapeways | Gift Guide</h1><p>Looking for the perfect gift? Our gift guide features many custom products: fashion, gadgets, hipster, miniatures, jewelry and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5ba48af924a9e36100a0c23fcfc1a8f8/noop.jpg?input=https%3A%2F%2Fstatic1.sw-cdn.net%2Ffiles%2Fcms%2Fgift-guide%2Fgg-2014-social-img.jpg"></article>]]></description>
             <link>http://www.shapeways.com/gift-guide?li=footer</link>
             <guid isPermaLink="false">0e7d081a-46dd-4398-a4ac-a8c413ee07e4</guid>
             <pubDate>Thu, 25 Aug 2016 15:36:25 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>My Perfect 24 Hours, If I Were a Teleporting Billionaire | Travel Away</h1><p>Bear with me on this one. Let's say it's summer, end of August to be more precise. I live in Romania, I am a billionaire, and, of course, teleportation is possible. To make it easier for you to calculate (if you want to), use the Eastern European time (UTC+2).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d514394de715e2d49831dc9410ecb72b24380f6d.jpg"></article>]]></description>
             <link>http://travelaway.me/24-hours-teleporting-billionaire/</link>
             <guid isPermaLink="false">7bfcd4ca-ac67-49f7-b1f3-584adf5f8e4c</guid>
-            <pubDate>Thu, 25 Aug 2016 15:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ars VR headset showdown-Oculus Rift vs. HTC Vive]]></title>
-            <description><![CDATA[<article><h1>The Ars VR headset showdown-Oculus Rift vs. HTC Vive</h1><p>In our original reviews of the Oculus Rift and the HTC Vive, we tried very hard to examine these virtual reality systems on their own merits without constant comparisons to the competition. But no product exists in a vacuum. After years of buildup, we're now faced with two competitive, PC-tethered VR headsets hitting the market right next to each other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a473611978ca4931a0d74678d9cd4a6eaafdb8a9.jpg"></article>]]></description>
-            <link>http://arstechnica.com/gaming/2016/04/the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive/</link>
-            <guid isPermaLink="false">02e91957-2b7a-4f8b-ae23-2a275103e3b6</guid>
             <pubDate>Thu, 25 Aug 2016 15:05:28 GMT</pubDate>
         </item>
     </channel>
