@@ -4,7 +4,7 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 17:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 17:50:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Harvard Researchers Develop First-Ever Fully Autonomous Soft-Bodied Robot: Meet the 3D Printed Octobot]]></title>
@@ -12,6 +12,13 @@
             <link>https://3dprint.com/147094/harvard-octobot-soft-robot/</link>
             <guid isPermaLink="false">9a8d9002-7612-4233-b9dc-c6910d18c102</guid>
             <pubDate>Thu, 25 Aug 2016 17:50:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IN UTERO 3D Provides 3D Printed Ultrasounds to Visually Impaired Expectant Parents]]></title>
+            <description><![CDATA[<article><h1>IN UTERO 3D Provides 3D Printed Ultrasounds to Visually Impaired Expectant Parents</h1><p>One of the most memorable moments in the lives of expectant parents comes when they first see the image of their baby on the ultrasound screen. It's the moment, for many, when a pregnancy really becomes real, when it finally becomes possible to grasp the fact that a new human being is developing ins...</p><img src="https://3dprint.com/wp-content/uploads/2016/08/DSC_9826.jpg"></article>]]></description>
+            <link>https://3dprint.com/147001/in-utero-3d-printed-ultrasounds/</link>
+            <guid isPermaLink="false">6884dc3a-1011-4f4c-9345-a6e7b3dfa431</guid>
+            <pubDate>Thu, 25 Aug 2016 17:50:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stratasys debuts new 3D printing tech, partnerships with Ford and Boeing]]></title>
@@ -68,13 +75,6 @@
             <link>http://blog.stratasys.com/2016/07/25/industry-40-keynote-ben-lazarus/</link>
             <guid isPermaLink="false">b764b0cd-bdc6-43f1-b514-6c905919effb</guid>
             <pubDate>Thu, 25 Aug 2016 15:21:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Evolving Regulatory Landscape of 3D Printed Medical Products - Stratasys Blog]]></title>
-            <description><![CDATA[<article><h1>The Evolving Regulatory Landscape of 3D Printed Medical Products - Stratasys Blog</h1><p>This post is the first in a two-part series. Over the past year, my email inbox has been consistently pinged by law firms advertising seminars and workshops that promise to help medical professionals understand what is noteworthy for 3D printed medical products, ranging from regulatory to IP concerns.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/041c60bf2e698688312cf4aea81e8691/croprotate.jpg?cropheight=1002&cropwidth=1500&degrees=0&input=http%3A%2F%2Fblog.stratasys.com%2Fwp-content%2Fuploads%2F2016%2F02%2FOrthotics_opt.jpg&x=0&y=17"></article>]]></description>
-            <link>http://blog.stratasys.com/2016/08/15/3d-printed-medical-products-regulations/</link>
-            <guid isPermaLink="false">67990a34-fe53-497a-9f84-a840ae5d83ad</guid>
-            <pubDate>Thu, 25 Aug 2016 15:19:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
