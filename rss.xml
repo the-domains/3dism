@@ -4,8 +4,15 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 18:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 18:51:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Whimsical 3D-Printed Figurines : Wondermooi]]></title>
+            <description><![CDATA[<article><h1>Whimsical 3D-Printed Figurines : Wondermooi</h1><p>Wondermooi - In collaboration with Belgian fashion designer Walter van Beirendonck, IKEA is now helping people to infuse their homes with a bit of whimsy from &...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6c37e4ee95f0090faf37e8e44fd51d4c/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2Fwondermooi.jpeg"></article>]]></description>
+            <link>http://www.trendhunter.com/trends/wondermooi</link>
+            <guid isPermaLink="false">55d103c6-aa62-40ee-b7ee-25b742244ef9</guid>
+            <pubDate>Thu, 25 Aug 2016 18:51:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Filament Subscription Services : 3dprinting filaments]]></title>
             <description><![CDATA[<article><h1>Filament Subscription Services : 3dprinting filaments</h1><p>3dprinting filaments - The rigid.ink Club is a new kind of subscription service that gives makers the chance to get their hands on an assortment of 3D printing filaments ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3bdfe223ce91495fab6e8a78662f623b/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2F3dprinting-filaments.jpeg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.trendhunter.com/trends/3dprinted-camera</link>
             <guid isPermaLink="false">0db1f70c-1409-478e-aa48-80ee9af62655</guid>
             <pubDate>Thu, 25 Aug 2016 18:26:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bespoke Printed Jewelry : Jewelry 3D Printing]]></title>
-            <description><![CDATA[<article><h1>Bespoke Printed Jewelry : Jewelry 3D Printing</h1><p>Jewelry 3D Printing - One of the most notable innovations in jewelry 3D printing came with the Precious M 080 jewelry printer from Cooksongold and EOS. While most compan...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b8fadf781ef34e7357984ed3cb7dc382/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2Fjewelry-3d-printing.jpeg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/jewelry-3d-printing</link>
-            <guid isPermaLink="false">6106fc4c-5835-4da7-b17c-b820a7b628d1</guid>
-            <pubDate>Thu, 25 Aug 2016 18:24:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
