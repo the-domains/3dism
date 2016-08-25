@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[3Dism]]></title>
-        <description><![CDATA[3Dism]]></description>
+        <title><![CDATA[3D Printing, VR, Robotics, AI & More...]]></title>
+        <description><![CDATA[3D Printing, VR, Robotics, AI & More...]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 15:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 15:17:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[All the adults colouring is leading to huge sales for pencil companies]]></title>
@@ -12,6 +12,13 @@
             <link>http://mashable.com/2016/04/10/colouring-trend/#_B.eXvr5Fgq5</link>
             <guid isPermaLink="false">68303d9d-a018-482b-9c53-d3f7481ca2ac</guid>
             <pubDate>Thu, 25 Aug 2016 15:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On-demand 3D printed models make big splash at trade show]]></title>
+            <description><![CDATA[<article><h1>On-demand 3D printed models make big splash at trade show</h1><p>On Site Gas Systems designs and builds nitrogen and oxygen gas-generating systems that are employed by dozens of industries. From oil and gas, to beverage and medical, to chemical and lab systems, these generators are found in plants throughout the world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3af1162fb2bcb23dc51d854e441f9616/noop.jpg?input=http%3A%2F%2Fwww.3dsystems.com%2Fsites%2Fwww.3dsystems.com%2Ffiles%2Fstyles%2Flarge%2Fpublic%2Fnitrogen-generator.jpg"></article>]]></description>
+            <link>http://www.3dsystems.com/learning-center/case-studies/demand-3d-printed-models-make-big-splash-trade-show</link>
+            <guid isPermaLink="false">1006b2ce-7b1a-4bee-b35f-6f0fec199856</guid>
+            <pubDate>Thu, 25 Aug 2016 15:17:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Great Barrier Reef's Best Hope Is a Killer Robot]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Paint With Fire Using This Virtual Reality App</h1><p>Vocativ uses intelligent technology, smart journalists and the wisdom of the crowd to find story leads and angles no other news organization can.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1fd2f9f55fd33825a34fcf74867bcde35fb76de.jpg"></article>]]></description>
             <link>http://www.vocativ.com/316058/paint-with-fire-using-this-virtual-reality-app/</link>
             <guid isPermaLink="false">e0241cd6-d30b-4cd6-a4ee-a38b7e9e32d5</guid>
-            <pubDate>Thu, 25 Aug 2016 15:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Bike to the Future': Design Museum Gent considers a world of two-wheeled design.]]></title>
-            <description><![CDATA[<article><h1>'Bike to the Future': Design Museum Gent considers a world of two-wheeled design.</h1><p>'Bike to the Future' is the latest testament to a cycling revolution we've been witnessing since the 1960s. But the Design Museum Gent isn't interested in the past; between 25 March - 23 October it showcases a collection of contemporary models from the new millennium, including Philippe Starck's electric bike 'MASS' or Tobias Knockaert's laser-cut bicycle, and prototypes and experiments for the future, with unusual aesthetics, materials and functions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e75dd9b06e93c20d73aed8ffe8845b13b5208794.jpg"></article>]]></description>
-            <link>http://www.wallpaper.com/design/cycling-our-way-to-the-future</link>
-            <guid isPermaLink="false">c0e42940-602c-4696-8b41-f206c0ab3794</guid>
             <pubDate>Thu, 25 Aug 2016 15:05:28 GMT</pubDate>
         </item>
     </channel>
