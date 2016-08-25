@@ -4,11 +4,18 @@
         <description><![CDATA[3D Printing, VR, Robotics, AI & More...]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 15:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 15:35:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Designers for Hire - Shapeways 3D Printing]]></title>
+            <description><![CDATA[<article><h1>Designers for Hire - Shapeways 3D Printing</h1><p>Have a great idea, but need help creating a 3D model? Hire one of our recommended designers to bring your idea to life.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/90677eccb3c46f1826d1ce01cb64f8c6/noop.jpg?input=http%3A%2F%2Fstatic1.sw-cdn.net%2Frrstatic%2Fimg%2Fsw-fb-glowing-spark.jpg%3Ftag%3D2016082401"></article>]]></description>
+            <link>http://www.shapeways.com/hire/designer/</link>
+            <guid isPermaLink="false">14cb6e3d-242b-4793-bfb8-ed72de9697f5</guid>
+            <pubDate>Thu, 25 Aug 2016 15:35:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[3D Demonstrators Designed for Bigger, Lighter Auto and Aerospace Parts - Stratasys Blog]]></title>
-            <description><![CDATA[<article><h1>3D Demonstrators Designed for Bigger, Lighter Auto and Aerospace Parts - Stratasys Blog</h1><p>Stratasys will be previewing demonstrations of next-generation manufacturing technologies at IMTS 2016 as part of its SHAPING WHAT'S NEXT™ vision for manufacturing. SHAPING WHAT'S NEXT builds on Stratasys' industrial FDM® 3D printing expertise to respond to the needs of customers' most challenging applications, addressing manufacturers' needs to rapidly produce strong parts ranging in size from an automobile armrest to an entire aircraft interior panel.</p><img src="http://blog.stratasys.com/wp-content/uploads/2015/05/blog_airbus_hero.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>3D Demonstrators Designed for Bigger, Lighter Auto and Aerospace Parts - Stratasys Blog</h1><p>Stratasys will be previewing demonstrations of next-generation manufacturing technologies at IMTS 2016 as part of its SHAPING WHAT'S NEXT™ vision for manufacturing. SHAPING WHAT'S NEXT builds on Stratasys' industrial FDM® 3D printing expertise to respond to the needs of customers' most challenging applications, addressing manufacturers' needs to rapidly produce strong parts ranging in size from an automobile armrest to an entire aircraft interior panel.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ac00eb80dd0cfdc1215bc9fbe7e9e5ad/noop.jpg?input=http%3A%2F%2Fblog.stratasys.com%2Fwp-content%2Fuploads%2F2015%2F05%2Fblog_airbus_hero.jpg"></article>]]></description>
             <link>http://blog.stratasys.com/2016/08/24/infinite-build-robotic-composite-3d-demonstrator/</link>
             <guid isPermaLink="false">0abbc020-8943-478d-bf1e-d5b455aca28e</guid>
             <pubDate>Thu, 25 Aug 2016 15:21:51 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Light painting with pixelstick</h1><p>More info at thepixelstick.com! We spent the last year building pixelstick, a light painting tool capable of everything from photo-real renders to amazing abstract ribbons. We've improved with every iteration and are excited to finally show off what it can do. Everything was shot by just two slightly sleep deprived guys and one Pixelstick in Brooklyn.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f83450408b8ae969aa617e22dc894484/noop.jpg?input=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F481060213_1280x720.jpg"></article>]]></description>
             <link>https://vimeo.com/78163959</link>
             <guid isPermaLink="false">0a7cd839-d7d8-4ac2-9da5-138de979db05</guid>
-            <pubDate>Thu, 25 Aug 2016 15:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Science Fiction to Reality: The Evolution of Artificial Intelligence]]></title>
-            <description><![CDATA[<article><h1>From Science Fiction to Reality: The Evolution of Artificial Intelligence</h1><p>What was once just a figment of the imagination of some our most famous science fiction writers, artificial intelligence (AI) is taking root in our everyday lives. We're still a few years away from having robots at our beck and call, but AI has already had a profound impact in more subtle ways.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/357196ae30863a53e7710f55ebbdd64acab6cdce.jpg"></article>]]></description>
-            <link>http://www.wired.com/insights/2015/01/the-evolution-of-artificial-intelligence/</link>
-            <guid isPermaLink="false">80103979-fb45-4881-9e35-acbbfeab7344</guid>
             <pubDate>Thu, 25 Aug 2016 15:05:28 GMT</pubDate>
         </item>
     </channel>
