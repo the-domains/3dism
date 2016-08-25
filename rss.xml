@@ -4,7 +4,7 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 19:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 19:53:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How 3D Printing Fuels STEAM Education]]></title>
@@ -12,6 +12,20 @@
             <link>http://blog.stratasys.com/2016/07/07/3d-printing-steam-education/</link>
             <guid isPermaLink="false">2a8aa35b-fc3c-4fbf-af9d-5058b89ea7c5</guid>
             <pubDate>Thu, 25 Aug 2016 19:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The future of soft robotics: a 3D-printed, farting, gummy octopus]]></title>
+            <description><![CDATA[<article><h1>The future of soft robotics: a 3D-printed, farting, gummy octopus</h1><p>Even as some of us brace for the cephalopod uprising, octopuses have became the favorite animals of robotic engineers. And an adorable palm-sized octopus-robot, made by a group of Harvard researchers, might be the closest robots have ever gotten to the real eight-armed creature of the sea.</p><img src="https://qzprod.files.wordpress.com/2016/08/octobot.jpg?w=2400"></article>]]></description>
+            <link>http://qz.com/766198/the-future-of-soft-robotics-a-3d-printed-farting-gummy-octopus/</link>
+            <guid isPermaLink="false">770a0c71-3d9c-4d70-af86-4b96a6c9b8d5</guid>
+            <pubDate>Thu, 25 Aug 2016 19:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NinjaTek Releases New Longer-Life Parts]]></title>
+            <description><![CDATA[<article><h1>NinjaTek Releases New Longer-Life Parts</h1><p>Those who are experienced with 3D printers already know the perils of awkwardly vibrating print beds and slipping belts leading to print shifts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0c5c3e07a49c3b985fda3604de5dac56/noop.jpg?input=https%3A%2F%2F3dprintingindustry.com%2Fwp-content%2Fuploads%2F2016%2F08%2FNinjaTek-3D-printing-logo-1.jpg"></article>]]></description>
+            <link>https://3dprintingindustry.com/news/ninjatek-releases-new-longer-life-parts-94837/</link>
+            <guid isPermaLink="false">4bf471f5-3fe0-4875-84b9-ee03341c341d</guid>
+            <pubDate>Thu, 25 Aug 2016 19:51:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An Interview with Jemma Redmond, Founder of Ourobotics]]></title>
@@ -61,20 +75,6 @@
             <link>http://www.trendhunter.com/trends/marena</link>
             <guid isPermaLink="false">fba550c0-cba6-44ac-a853-9546e17c898f</guid>
             <pubDate>Thu, 25 Aug 2016 18:51:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[25 Ways to Come Up With Ideas]]></title>
-            <description><![CDATA[<article><h1>25 Ways to Come Up With Ideas</h1><p>By: Alyson Wyers - Jul 7, 2015 If you are trying to figure out how you, your employees, your organization or even students can come up with ideas that are original and innovative, these talks provide a plethora of insight.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3f29a931e7a3cd97abee11522cfc7a62/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2Fcome-up-with-ideas.jpeg"></article>]]></description>
-            <link>http://www.trendhunter.com/course/come-up-with-ideas</link>
-            <guid isPermaLink="false">0bcdc884-2593-4fb8-8ccf-a77eb78973ab</guid>
-            <pubDate>Thu, 25 Aug 2016 18:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Luxury 3D Printers : advanced 3D printer]]></title>
-            <description><![CDATA[<article><h1>Luxury 3D Printers : advanced 3D printer</h1><p>advanced 3D printer - This advanced 3D printer is capable of printing using multiple materials. From Pollen, Pam is a more expensive, luxury 3D printer targeted at ̶...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8fb87cca9f082e861b35824af9861708/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2Fadvanced-3d-printer.jpeg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/advanced-3d-printer</link>
-            <guid isPermaLink="false">abd59f0d-b83c-4d9f-8ae1-940085a8dfc1</guid>
-            <pubDate>Thu, 25 Aug 2016 18:31:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
