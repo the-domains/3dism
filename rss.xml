@@ -4,8 +4,15 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 18:51:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 19:23:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How 3D Printing Fuels STEAM Education]]></title>
+            <description><![CDATA[<article><h1>How 3D Printing Fuels STEAM Education</h1><p>Science, Technology, Education, Art, and Mathematics (STEAM) education has been a focus of development worldwide in recent years. Building upon conventional wisdom about STEM education, new research is inspiring teachers to add an artistic dimension to their math-and-science-based curricula.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/abeb3507d6efafc60d3dde763ad2e7c9/noop.jpg?input=http%3A%2F%2Fblog.stratasys.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fsteam-education-3d-printing-sm.jpg"></article>]]></description>
+            <link>http://blog.stratasys.com/2016/07/07/3d-printing-steam-education/</link>
+            <guid isPermaLink="false">2a8aa35b-fc3c-4fbf-af9d-5058b89ea7c5</guid>
+            <pubDate>Thu, 25 Aug 2016 19:23:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3D Printing Restaurants : food ink]]></title>
             <description><![CDATA[<article><h1>3D Printing Restaurants : food ink</h1><p>food ink - Consumers interested in eating 3D-printed food will soon be able to visit the world's first 3D printing restaurant, Food Ink. The idea starte...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/90ae2176faedbd2984cb354a7cca3045/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2Ffood-ink.jpeg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.trendhunter.com/trends/shaped-pizza</link>
             <guid isPermaLink="false">9e96373a-cc8c-4691-85bc-0e032e683ce5</guid>
             <pubDate>Thu, 25 Aug 2016 18:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Soap-Printing Pens : 3d printing pens]]></title>
-            <description><![CDATA[<article><h1>Soap-Printing Pens : 3d printing pens</h1><p>3d printing pens - The rise of additive manufacturing has inspired the creation of several 3D printing pens for kids, including this ultra-safe one from Japanese toy ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e8eacb740f5c2307a7cbd1fbf0a0536d/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2F3d-printing-pens.jpeg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/3d-printing-pens</link>
-            <guid isPermaLink="false">fad54ca0-9866-420e-9097-1a04762aad40</guid>
-            <pubDate>Thu, 25 Aug 2016 18:26:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
