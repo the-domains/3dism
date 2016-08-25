@@ -4,8 +4,15 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 17:45:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 17:46:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stratasys debuts new 3D printing tech, partnerships with Ford and Boeing]]></title>
+            <description><![CDATA[<article><h1>Stratasys debuts new 3D printing tech, partnerships with Ford and Boeing</h1><p>Stratasys has one of those classic founder stories. According to the company, inventor S. Scott Crump got the bright idea to make a toy frog for his daughter using a hot glue gun full of plastic and candle wax.</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/08/unnamed-31.jpg?w=1024&h=576"></article>]]></description>
+            <link>https://techcrunch.com/2016/08/24/stratasys/</link>
+            <guid isPermaLink="false">a6cc2c2e-6de4-49f5-8948-015aea1483e1</guid>
+            <pubDate>Thu, 25 Aug 2016 17:45:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Auto, aerospace industries warm to 3D printing]]></title>
             <description><![CDATA[<article><h1>Auto, aerospace industries warm to 3D printing</h1><p>New 3D printing technology unveiled this week sharply increases the size of objects that can be produced, offering new possibilities to remake manufacturing in the auto, aerospace and other major industries.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aeeb5e76b4645c60e51a328710374955/noop.jpg?input=http%3A%2F%2Fcdn.phys.org%2Fnewman%2Fgfx%2Fnews%2F2016%2F1-theprototype.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.3dsystems.com/learning-center/case-studies/demand-3d-printed-models-make-big-splash-trade-show</link>
             <guid isPermaLink="false">1006b2ce-7b1a-4bee-b35f-6f0fec199856</guid>
             <pubDate>Thu, 25 Aug 2016 15:17:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Great Barrier Reef's Best Hope Is a Killer Robot]]></title>
-            <description><![CDATA[<article><h1>The Great Barrier Reef's Best Hope Is a Killer Robot</h1><p>Crown-of-thorns starfish are the zombies of the sea. They won't die even if you cut them in half. To kill one, you must dismember it completely-or inject it with poisonous (to them) bile salts. Instead of braaains, these zombies munch coral, and off the coast of Australia, infestations of the beasts are damaging the Great Barrier Reef at an alarming rate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df2ff642b24f92833cf4da9277a687034f647587.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/04/starfish-killer-robot/</link>
-            <guid isPermaLink="false">60f10469-d99c-40b9-ad62-b1a6d77b99ca</guid>
-            <pubDate>Thu, 25 Aug 2016 15:05:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
