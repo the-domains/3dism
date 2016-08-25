@@ -4,8 +4,15 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 17:50:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 17:54:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australia's Boutique Jewelers Thriving Thanks to Brides Seeking 3D Printed Customization]]></title>
+            <description><![CDATA[<article><h1>Australia's Boutique Jewelers Thriving Thanks to Brides Seeking 3D Printed Customization</h1><p>For our industry, it's hard to imagine what could be more inspiring than writing about lives miraculously changed through 3D printing. With the advent of many significant new innovations in medicine, and in 3D printing, we see small products like titanium spinal implants making an enormous differe...</p><img src="https://3dprint.com/wp-content/uploads/2016/08/3dPrinting.jpg"></article>]]></description>
+            <link>https://3dprint.com/147028/boutique-jewelry-3d-printing/</link>
+            <guid isPermaLink="false">325d48bc-cc7c-4302-b335-8ed7033cc56c</guid>
+            <pubDate>Thu, 25 Aug 2016 17:54:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Harvard Researchers Develop First-Ever Fully Autonomous Soft-Bodied Robot: Meet the 3D Printed Octobot]]></title>
             <description><![CDATA[<article><h1>Harvard Researchers Develop First-Ever Fully Autonomous Soft-Bodied Robot: Meet the 3D Printed Octobot</h1><p>The common stereotype of robots is that they're rigid metal creatures that move stiffly and awkwardly. Obviously that hasn't be the case for a long time - robots come in many, many different forms, but one thing they are not is soft and squishy. Right? Au contraire, says Harvard University.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5629a5821e6cebab353ddc5916e347cc/noop.jpg?input=https%3A%2F%2F3dprint.com%2Fwp-content%2Fuploads%2F2016%2F08%2FNature_2016_press_Image2-1024x683-800x534.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[IN UTERO 3D Provides 3D Printed Ultrasounds to Visually Impaired Expectant Parents]]></title>
-            <description><![CDATA[<article><h1>IN UTERO 3D Provides 3D Printed Ultrasounds to Visually Impaired Expectant Parents</h1><p>One of the most memorable moments in the lives of expectant parents comes when they first see the image of their baby on the ultrasound screen. It's the moment, for many, when a pregnancy really becomes real, when it finally becomes possible to grasp the fact that a new human being is developing ins...</p><img src="https://3dprint.com/wp-content/uploads/2016/08/DSC_9826.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>IN UTERO 3D Provides 3D Printed Ultrasounds to Visually Impaired Expectant Parents</h1><p>One of the most memorable moments in the lives of expectant parents comes when they first see the image of their baby on the ultrasound screen. It's the moment, for many, when a pregnancy really becomes real, when it finally becomes possible to grasp the fact that a new human being is developing ins...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4bc446005e234a2d480c93e78bbc500d/noop.jpg?input=https%3A%2F%2F3dprint.com%2Fwp-content%2Fuploads%2F2016%2F08%2FDSC_9826.jpg"></article>]]></description>
             <link>https://3dprint.com/147001/in-utero-3d-printed-ultrasounds/</link>
             <guid isPermaLink="false">6884dc3a-1011-4f4c-9345-a6e7b3dfa431</guid>
             <pubDate>Thu, 25 Aug 2016 17:50:10 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://blog.stratasys.com/2016/07/07/3d-printing-steam-education/</link>
             <guid isPermaLink="false">1b27cb31-8336-4755-9290-e2f416a9fc16</guid>
             <pubDate>Thu, 25 Aug 2016 15:21:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry 4.0: Watch Keynote on the Role of 3D Printing]]></title>
-            <description><![CDATA[<article><h1>Industry 4.0: Watch Keynote on the Role of 3D Printing</h1><p>The recent IN(3D)USTRY event in Barcelona brought together industry users, manufacturers and service providers to discuss 3D printing's role in building more efficient, value-added manufacturing processes. Speaking on behalf of Stratasys, I described the different ways 3D printing is being implemented to improve production and help businesses gain a competitive advantage.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9055214e515974c79319ebaa91c41250/noop.jpg?input=http%3A%2F%2Fblog.stratasys.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fben-lazarus-2.jpg"></article>]]></description>
-            <link>http://blog.stratasys.com/2016/07/25/industry-40-keynote-ben-lazarus/</link>
-            <guid isPermaLink="false">b764b0cd-bdc6-43f1-b514-6c905919effb</guid>
-            <pubDate>Thu, 25 Aug 2016 15:21:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
