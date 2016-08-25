@@ -4,8 +4,15 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 18:51:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 18:51:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Filament Subscription Services : 3dprinting filaments]]></title>
+            <description><![CDATA[<article><h1>Filament Subscription Services : 3dprinting filaments</h1><p>3dprinting filaments - The rigid.ink Club is a new kind of subscription service that gives makers the chance to get their hands on an assortment of 3D printing filaments ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3bdfe223ce91495fab6e8a78662f623b/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2F3dprinting-filaments.jpeg"></article>]]></description>
+            <link>http://www.trendhunter.com/trends/3dprinting-filaments</link>
+            <guid isPermaLink="false">2b30843b-e412-4bb7-86ae-ee67fe07b152</guid>
+            <pubDate>Thu, 25 Aug 2016 18:51:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3D-Printed Board Games : mARENA]]></title>
             <description><![CDATA[<article><h1>3D-Printed Board Games : mARENA</h1><p>mARENA - A French startup called 'Anthea Editions' recently launched a Kickstarter campaign for a 3D-printed board game called 'mARENA The...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7082fada49138eee82f360bb6963547f/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2Fmarena.jpeg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.trendhunter.com/trends/jewelry-3d-printing</link>
             <guid isPermaLink="false">6106fc4c-5835-4da7-b17c-b820a7b628d1</guid>
             <pubDate>Thu, 25 Aug 2016 18:24:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sustainable 3D-Printing Pens : 3D-printing pen]]></title>
-            <description><![CDATA[<article><h1>Sustainable 3D-Printing Pens : 3D-printing pen</h1><p>3D-printing pen - The Renegade is an exceptionally designed and engineered 3D-printing pen that is designed to be more sustainable than previous alternatives. While...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/17f821f6f552663b42cb26eb7c7ba436/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2FRenegade-3dprinting-pen.jpeg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/renegade-3dprinting-pen</link>
-            <guid isPermaLink="false">57e7fed9-f6f6-4ef5-b6e3-9cf0f21d1e7f</guid>
-            <pubDate>Thu, 25 Aug 2016 18:24:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
