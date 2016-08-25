@@ -4,7 +4,7 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 19:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 19:51:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How 3D Printing Fuels STEAM Education]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.stratasys.com/2016/07/07/3d-printing-steam-education/</link>
             <guid isPermaLink="false">2a8aa35b-fc3c-4fbf-af9d-5058b89ea7c5</guid>
             <pubDate>Thu, 25 Aug 2016 19:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Researchers are now fabricating human tissues with a 3D printer]]></title>
+            <description><![CDATA[<article><h1>Researchers are now fabricating human tissues with a 3D printer</h1><p>In the modern medical world, to receive a skin, bone, organ, or muscle transplant, it has to be from another person. A donor has to supply you with the parts or, in the case of skin grafts, the patient themselves needs to have tissue removed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/099dea5377fd6579d2882e595884c7b5/noop.jpg?input=http%3A%2F%2Fcdn0.dailydot.com%2Fcache%2F7f%2F50%2F7f505d3452fd91641f3b766279f769dd.jpg"></article>]]></description>
+            <link>http://www.dailydot.com/debug/3d-printing-human-tissue/</link>
+            <guid isPermaLink="false">46ba69e3-7482-4c2c-9da8-cb6959c7f5fe</guid>
+            <pubDate>Thu, 25 Aug 2016 19:51:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stratasys' latest moves show how quickly the 3D printing landscape is evolving]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.trendhunter.com/trends/printer-for-kids</link>
             <guid isPermaLink="false">a018c6f1-8ec2-4e7f-81d2-c615668ce68a</guid>
             <pubDate>Thu, 25 Aug 2016 18:31:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Printed Musculoskeletal Masks : printed mask]]></title>
-            <description><![CDATA[<article><h1>Printed Musculoskeletal Masks : printed mask</h1><p>printed mask - Icelandic musician Björk is known for her eclectic music and style, as well as a quickness to experiment with new forms of technology-al...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/68d834edbdd30f33805a3d8f5533e0c7/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2Fprinted-mask.jpeg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/printed-mask</link>
-            <guid isPermaLink="false">6dfc995a-7903-4f9f-97d3-1054784359f0</guid>
-            <pubDate>Thu, 25 Aug 2016 18:28:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
