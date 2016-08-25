@@ -4,8 +4,15 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 18:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 18:51:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3D Printing Restaurants : food ink]]></title>
+            <description><![CDATA[<article><h1>3D Printing Restaurants : food ink</h1><p>food ink - Consumers interested in eating 3D-printed food will soon be able to visit the world's first 3D printing restaurant, Food Ink. The idea starte...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/90ae2176faedbd2984cb354a7cca3045/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2Ffood-ink.jpeg"></article>]]></description>
+            <link>http://www.trendhunter.com/trends/food-ink</link>
+            <guid isPermaLink="false">6f32c713-64b4-4ac5-93bd-82dfce5a5805</guid>
+            <pubDate>Thu, 25 Aug 2016 18:51:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Whimsical 3D-Printed Figurines : Wondermooi]]></title>
             <description><![CDATA[<article><h1>Whimsical 3D-Printed Figurines : Wondermooi</h1><p>Wondermooi - In collaboration with Belgian fashion designer Walter van Beirendonck, IKEA is now helping people to infuse their homes with a bit of whimsy from &...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6c37e4ee95f0090faf37e8e44fd51d4c/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2Fwondermooi.jpeg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.trendhunter.com/trends/3d-printing-pens</link>
             <guid isPermaLink="false">fad54ca0-9866-420e-9097-1a04762aad40</guid>
             <pubDate>Thu, 25 Aug 2016 18:26:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Luxe 3D-Printed Cameras : 3D-printed camera]]></title>
-            <description><![CDATA[<article><h1>Luxe 3D-Printed Cameras : 3D-printed camera</h1><p>3D-printed camera - 3D-printed cameras are fast poised to grow into the next big thing in photography, and this is perfectly understandable when you consider the wonde...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bbb523b72e36b7d751efc76a0ec4165a/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2F3dprinted-camera.jpeg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/3dprinted-camera</link>
-            <guid isPermaLink="false">0db1f70c-1409-478e-aa48-80ee9af62655</guid>
-            <pubDate>Thu, 25 Aug 2016 18:26:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
