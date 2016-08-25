@@ -1,43 +1,29 @@
 ---
+id: 1b27cb31-8336-4755-9290-e2f416a9fc16
+dateModified: '2016-08-25T19:23:03.307Z'
+title: How 3D Printing Fuels STEAM Education
+datePublished: '2016-08-25T19:23:03.415Z'
 author:
   - name: Gina Scala
     url: 'http://blog.stratasys.com/author/gina-scala/'
     avatar: {}
-related: []
-publisher:
-  url: 'http://blog.stratasys.com'
-  name: Stratasys Blog
-  favicon: 'http://blog.stratasys.com/favicon.ico'
-  domain: blog.stratasys.com
-keywords:
-  - students
-  - printing
-  - designing
-  - art
-  - artists
-  - classroom
-  - printer
-  - prototyping
-  - erickson
-  - technology
+isBasedOnUrl: 'http://blog.stratasys.com/2016/07/07/3d-printing-steam-education/'
 description: >-
   Science, Technology, Education, Art, and Mathematics (STEAM) education has
   been a focus of development worldwide in recent years. Building upon
   conventional wisdom about STEM education, new research is inspiring teachers
   to add an artistic dimension to their math-and-science-based curricula.
-inLanguage: en
-app_links: []
-isBasedOnUrl: 'http://blog.stratasys.com/2016/07/07/3d-printing-steam-education/'
-title: How 3D Printing Fuels STEAM Education
-datePublished: '2016-08-25T15:21:47.625Z'
-dateModified: '2016-08-25T15:21:12.279Z'
+publisher:
+  url: 'http://blog.stratasys.com'
+  name: Stratasys Blog
+  favicon: 'http://blog.stratasys.com/favicon.ico'
+  domain: blog.stratasys.com
 via: {}
 starred: false
 sourcePath: _posts/2016-08-25-how-3d-printing-fuels-steam-education.md
 inFeed: true
 hasPage: false
 inNav: false
-_context: 'http://schema.org'
 _type: MediaObject
 
 ---
