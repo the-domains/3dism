@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[3D Printing, VR, Robotics, AI & More...]]></title>
-        <description><![CDATA[3D Printing, VR, Robotics, AI & More...]]></description>
+        <title><![CDATA[The 3D Revolution]]></title>
+        <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 16:01:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 16:43:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Could 3D Printing Be Used To Build The Next Generation of Aircraft Wings? - 3D Printing]]></title>
-            <description><![CDATA[<article><h1>Could 3D Printing Be Used To Build The Next Generation of Aircraft Wings? - 3D Printing</h1><p>Two manufacturing giants, Airbus and Renishaw, have partnered on a new project to help build the next generation of aircraft wings with additive manufacturing. The $23.15 million plan promises to be one of the most ambitious and innovative developments in aerospace design for many years.</p><img src="http://3dprinting.com/wp-content/uploads/2016/08/airbus-concept.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Could 3D Printing Be Used To Build The Next Generation of Aircraft Wings? - 3D Printing</h1><p>Two manufacturing giants, Airbus and Renishaw, have partnered on a new project to help build the next generation of aircraft wings with additive manufacturing. The $23.15 million plan promises to be one of the most ambitious and innovative developments in aerospace design for many years.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/440c88223574536680a9fdc8016a41f9/noop.jpg?input=http%3A%2F%2F3dprinting.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fairbus-concept.jpg"></article>]]></description>
             <link>http://3dprinting.com/news/3d-printing-used-build-next-generation-aircraft-wings/</link>
             <guid isPermaLink="false">fc1c7cfd-ef39-498d-a990-596e349e9002</guid>
             <pubDate>Thu, 25 Aug 2016 16:01:26 GMT</pubDate>
@@ -19,13 +19,6 @@
             <link>http://3dprinting.com/3dprinters/cheap-3d-printer-kits/</link>
             <guid isPermaLink="false">2aef8b14-38cc-46e5-9d7a-09c524c23e5b</guid>
             <pubDate>Thu, 25 Aug 2016 15:57:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is 3D printing? How does 3D printing work?]]></title>
-            <description><![CDATA[<article><h1>What is 3D printing? How does 3D printing work?</h1><p>3D printing or additive manufacturing is a process of making three dimensional solid objects from a digital file. The creation of a 3D printed object is achieved using additive processes. In an additive process an object is created by laying down successive layers of material until the object is created.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45e170cbc00905b0421330b36e26c5b303bd6443.jpg"></article>]]></description>
-            <link>http://3dprinting.com/what-is-3d-printing/#howtolearn3dprinting</link>
-            <guid isPermaLink="false">bb916cef-1a7d-4d0f-8fb4-21cecd587e18</guid>
-            <pubDate>Thu, 25 Aug 2016 15:56:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Designers for Hire - Shapeways 3D Printing]]></title>
