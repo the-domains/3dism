@@ -4,7 +4,7 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 19:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 19:50:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How 3D Printing Fuels STEAM Education]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.stratasys.com/2016/07/07/3d-printing-steam-education/</link>
             <guid isPermaLink="false">2a8aa35b-fc3c-4fbf-af9d-5058b89ea7c5</guid>
             <pubDate>Thu, 25 Aug 2016 19:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stratasys' latest moves show how quickly the 3D printing landscape is evolving]]></title>
+            <description><![CDATA[<article><h1>Stratasys' latest moves show how quickly the 3D printing landscape is evolving</h1><p>In some ways, the present-day 3D printing/additive manufacturing industry has much in common with the PC industry in the early-to-mid '80s. Penetration rates are still low, technologies and standards are rapidly evolving and figuring out who the winners and losers will be a decade from now is far from easy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/039663f0442917501ab30f87128e69f6/noop.jpg?input=http%3A%2F%2Fs.thestreet.com%2Ffiles%2Ftsc%2Fv2008%2Fphotos%2Fcontrib%2Fuploads%2F3dprinter.jpg"></article>]]></description>
+            <link>https://www.thestreet.com/story/13684533/1/stratasys-latest-moves-show-how-quickly-the-3d-printing-landscape-is-evolving.html</link>
+            <guid isPermaLink="false">7b1ccced-64ce-49f8-9238-6a92671fa808</guid>
+            <pubDate>Thu, 25 Aug 2016 19:49:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[3D Printing Restaurants : food ink]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.trendhunter.com/trends/printed-mask</link>
             <guid isPermaLink="false">6dfc995a-7903-4f9f-97d3-1054784359f0</guid>
             <pubDate>Thu, 25 Aug 2016 18:28:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3D-Printed Pizzas : shaped pizza]]></title>
-            <description><![CDATA[<article><h1>3D-Printed Pizzas : shaped pizza</h1><p>shaped pizza - Beehex 3D has become well-known for creating shaped pizzas using 3D printing technology. What makes this process unique is that the 3D food print...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1ee6d46650cadd4fd4f05397a1d188cb/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2Fshaped-pizza.jpeg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/shaped-pizza</link>
-            <guid isPermaLink="false">9e96373a-cc8c-4691-85bc-0e032e683ce5</guid>
-            <pubDate>Thu, 25 Aug 2016 18:28:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
