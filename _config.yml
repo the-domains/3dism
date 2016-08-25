@@ -1,0 +1,14 @@
+layout_spectrum: 0.2880146442912519
+typography_spectrum: 0.9611937392037362
+color:
+  brandStrength: 0.18421365460380912
+  lightness: 0.46439452236518264
+  saturation: 0.9300150608178228
+  rhythmicContrast: 0.17081895098090172
+  brandColors:
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+name: 3Dism
