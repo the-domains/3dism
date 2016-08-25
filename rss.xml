@@ -4,11 +4,18 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 17:46:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 17:50:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Harvard Researchers Develop First-Ever Fully Autonomous Soft-Bodied Robot: Meet the 3D Printed Octobot]]></title>
+            <description><![CDATA[<article><h1>Harvard Researchers Develop First-Ever Fully Autonomous Soft-Bodied Robot: Meet the 3D Printed Octobot</h1><p>The common stereotype of robots is that they're rigid metal creatures that move stiffly and awkwardly. Obviously that hasn't be the case for a long time - robots come in many, many different forms, but one thing they are not is soft and squishy. Right? Au contraire, says Harvard University.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5629a5821e6cebab353ddc5916e347cc/noop.jpg?input=https%3A%2F%2F3dprint.com%2Fwp-content%2Fuploads%2F2016%2F08%2FNature_2016_press_Image2-1024x683-800x534.jpg"></article>]]></description>
+            <link>https://3dprint.com/147094/harvard-octobot-soft-robot/</link>
+            <guid isPermaLink="false">9a8d9002-7612-4233-b9dc-c6910d18c102</guid>
+            <pubDate>Thu, 25 Aug 2016 17:50:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Stratasys debuts new 3D printing tech, partnerships with Ford and Boeing]]></title>
-            <description><![CDATA[<article><h1>Stratasys debuts new 3D printing tech, partnerships with Ford and Boeing</h1><p>Stratasys has one of those classic founder stories. According to the company, inventor S. Scott Crump got the bright idea to make a toy frog for his daughter using a hot glue gun full of plastic and candle wax.</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/08/unnamed-31.jpg?w=1024&h=576"></article>]]></description>
+            <description><![CDATA[<article><h1>Stratasys debuts new 3D printing tech, partnerships with Ford and Boeing</h1><p>Stratasys has one of those classic founder stories. According to the company, inventor S. Scott Crump got the bright idea to make a toy frog for his daughter using a hot glue gun full of plastic and candle wax.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2c292d2ff8fbd7697cd10803d472d9c6/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2016%2F08%2Funnamed-31.jpg%26h%3D576"></article>]]></description>
             <link>https://techcrunch.com/2016/08/24/stratasys/</link>
             <guid isPermaLink="false">a6cc2c2e-6de4-49f5-8948-015aea1483e1</guid>
             <pubDate>Thu, 25 Aug 2016 17:45:52 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://blog.stratasys.com/2016/08/15/3d-printed-medical-products-regulations/</link>
             <guid isPermaLink="false">67990a34-fe53-497a-9f84-a840ae5d83ad</guid>
             <pubDate>Thu, 25 Aug 2016 15:19:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On-demand 3D printed models make big splash at trade show]]></title>
-            <description><![CDATA[<article><h1>On-demand 3D printed models make big splash at trade show</h1><p>On Site Gas Systems designs and builds nitrogen and oxygen gas-generating systems that are employed by dozens of industries. From oil and gas, to beverage and medical, to chemical and lab systems, these generators are found in plants throughout the world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3af1162fb2bcb23dc51d854e441f9616/noop.jpg?input=http%3A%2F%2Fwww.3dsystems.com%2Fsites%2Fwww.3dsystems.com%2Ffiles%2Fstyles%2Flarge%2Fpublic%2Fnitrogen-generator.jpg"></article>]]></description>
-            <link>http://www.3dsystems.com/learning-center/case-studies/demand-3d-printed-models-make-big-splash-trade-show</link>
-            <guid isPermaLink="false">1006b2ce-7b1a-4bee-b35f-6f0fec199856</guid>
-            <pubDate>Thu, 25 Aug 2016 15:17:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
