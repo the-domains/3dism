@@ -4,7 +4,7 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 20:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 18:10:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How 3D Printing Fuels STEAM Education]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.stratasys.com/2016/07/07/3d-printing-steam-education/</link>
             <guid isPermaLink="false">2a8aa35b-fc3c-4fbf-af9d-5058b89ea7c5</guid>
             <pubDate>Thu, 25 Aug 2016 19:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[www.3ders.org]]></title>
+            <description><![CDATA[<article><h1>www.3ders.org</h1><p>Aug 24, 2016 | By Benedict Shining 3D, a Chinese 3D printing company, is aiming to become a leader in the field of 3D bioprinting while simultaneously building China's 3D printing ecosystem. The company owns a 50% stake in Regenovo Biotech , the company behind the Regenovo 3D bioprinter.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/763ad9fb47886df0880c868413954266/noop.jpg?input=http%3A%2F%2Fwww.3ders.org%2Fimages2016%2Fshining-3d-form-chinese-3d-printing-ecosystem-aims-become-3d-bioprinting-leader-2.jpg"></article>]]></description>
+            <link>http://www.3ders.org/articles/20160824-shining-3d-to-form-chinese-3d-printing-ecosystem-aims-to-become-3d-bioprinting-leader.html</link>
+            <guid isPermaLink="false">5dd31bcb-7ca1-4341-a00e-d9d92c4152d5</guid>
+            <pubDate>Sat, 27 Aug 2016 18:10:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The future of soft robotics: a 3D-printed, farting, gummy octopus]]></title>
