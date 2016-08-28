@@ -4,7 +4,7 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 18:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 18:11:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How 3D Printing Fuels STEAM Education]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.stratasys.com/2016/07/07/3d-printing-steam-education/</link>
             <guid isPermaLink="false">2a8aa35b-fc3c-4fbf-af9d-5058b89ea7c5</guid>
             <pubDate>Thu, 25 Aug 2016 19:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MIT's shape-shifting 3D-printed objects could improve medicine and solar-power]]></title>
+            <description><![CDATA[<article><h1>MIT's shape-shifting 3D-printed objects could improve medicine and solar-power</h1><p>MIT and the Singapore University of Technology and Design (SUTD) teamed up to create a new kind of structure that can "remember" its original shape, and return to that state even after being deformed or otherwise bent out of shape.</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/08/mit-shape-memory-1_0.jpg?w=948&h=632"></article>]]></description>
+            <link>https://techcrunch.com/2016/08/26/mits-shape-shifting-3d-printed-objects-could-improve-medicine-and-solar-power/</link>
+            <guid isPermaLink="false">d18c3cf8-7ed9-46c8-b984-2bfc64a2fe57</guid>
+            <pubDate>Sat, 27 Aug 2016 18:10:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Library Used Its 3D Printer To Make Prosthetic Hand For Girl]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.trendhunter.com/trends/3dprinting-filaments</link>
             <guid isPermaLink="false">2b30843b-e412-4bb7-86ae-ee67fe07b152</guid>
             <pubDate>Thu, 25 Aug 2016 18:51:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3D-Printed Board Games : mARENA]]></title>
-            <description><![CDATA[<article><h1>3D-Printed Board Games : mARENA</h1><p>mARENA - A French startup called 'Anthea Editions' recently launched a Kickstarter campaign for a 3D-printed board game called 'mARENA The...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7082fada49138eee82f360bb6963547f/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2Fmarena.jpeg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/marena</link>
-            <guid isPermaLink="false">fba550c0-cba6-44ac-a853-9546e17c898f</guid>
-            <pubDate>Thu, 25 Aug 2016 18:51:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
