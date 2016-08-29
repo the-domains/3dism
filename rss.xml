@@ -4,7 +4,7 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 18:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 18:56:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How 3D Printing Fuels STEAM Education]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 25 Aug 2016 19:23:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[One big question: Why can't we 3D print functioning organs today?]]></title>
+            <description><![CDATA[<article><h1>One big question: Why can't we 3D print functioning organs today?</h1><p>We recently reported on heart structures 3D-printed in a weightless environment. For the first of a regular new feature, we asked one of the company's chief scientist what was the single biggest impediment to having lab-grown organs available right now. Here's what he had to say.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5c48dcc59e0737432212a3709f8d0df9/noop.jpg?input=http%3A%2F%2Fimg-1.newatlas.com%2Fprinting-organs-2.jpg%3Fauto%3Dformat%252Ccompress%26ch%3DWidth%252CDPR%26fit%3Dcrop%26h%3D347%26q%3D60%26rect%3D0%252C11%252C891%252C501%26w%3D616%26s%3D533c4a2aadde98b891ef00fa761cb4a2"></article>]]></description>
+            <link>http://newatlas.com/1q-3d-printed-organs/44126/</link>
+            <guid isPermaLink="false">63b854e9-c096-43f9-91c6-8c403c8b08f5</guid>
+            <pubDate>Sat, 27 Aug 2016 18:56:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MIT's shape-shifting 3D-printed objects could improve medicine and solar-power]]></title>
-            <description><![CDATA[<article><h1>MIT's shape-shifting 3D-printed objects could improve medicine and solar-power</h1><p>MIT and the Singapore University of Technology and Design (SUTD) teamed up to create a new kind of structure that can "remember" its original shape, and return to that state even after being deformed or otherwise bent out of shape.</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/08/mit-shape-memory-1_0.jpg?w=948&h=632"></article>]]></description>
+            <description><![CDATA[<article><h1>MIT's shape-shifting 3D-printed objects could improve medicine and solar-power</h1><p>MIT and the Singapore University of Technology and Design (SUTD) teamed up to create a new kind of structure that can "remember" its original shape, and return to that state even after being deformed or otherwise bent out of shape.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7d9662a1353088e1eab59c5eeb379b25/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2016%2F08%2Fmit-shape-memory-1_0.jpg%26h%3D632"></article>]]></description>
             <link>https://techcrunch.com/2016/08/26/mits-shape-shifting-3d-printed-objects-could-improve-medicine-and-solar-power/</link>
             <guid isPermaLink="false">d18c3cf8-7ed9-46c8-b984-2bfc64a2fe57</guid>
             <pubDate>Sat, 27 Aug 2016 18:10:27 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.trendhunter.com/trends/wondermooi</link>
             <guid isPermaLink="false">55d103c6-aa62-40ee-b7ee-25b742244ef9</guid>
             <pubDate>Thu, 25 Aug 2016 18:51:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Filament Subscription Services : 3dprinting filaments]]></title>
-            <description><![CDATA[<article><h1>Filament Subscription Services : 3dprinting filaments</h1><p>3dprinting filaments - The rigid.ink Club is a new kind of subscription service that gives makers the chance to get their hands on an assortment of 3D printing filaments ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3bdfe223ce91495fab6e8a78662f623b/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2F3dprinting-filaments.jpeg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/3dprinting-filaments</link>
-            <guid isPermaLink="false">2b30843b-e412-4bb7-86ae-ee67fe07b152</guid>
-            <pubDate>Thu, 25 Aug 2016 18:51:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
