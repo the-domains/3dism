@@ -4,7 +4,7 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 18:56:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 18:56:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How 3D Printing Fuels STEAM Education]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.stratasys.com/2016/07/07/3d-printing-steam-education/</link>
             <guid isPermaLink="false">2a8aa35b-fc3c-4fbf-af9d-5058b89ea7c5</guid>
             <pubDate>Thu, 25 Aug 2016 19:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3D Printing works wonders in the world of cardiology]]></title>
+            <description><![CDATA[<article><h1>3D Printing works wonders in the world of cardiology</h1><p>An entry published in the International Journal of Cardiology explored the many recent applications of 3D printing technology in the treatment of heart-related diseases and surgeries.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02ee5283e94bab9ce4dc77b5c88a71f7/noop.jpg?input=https%3A%2F%2F3dprintingindustry.com%2Fwp-content%2Fuploads%2F2016%2F08%2F3d-printing-cardiology.jpg"></article>]]></description>
+            <link>https://3dprintingindustry.com/news/3d-printing-works-wonders-world-cardiology-94830/</link>
+            <guid isPermaLink="false">dab09ab4-1bf5-4023-8b87-c776543aa8d5</guid>
+            <pubDate>Sat, 27 Aug 2016 18:56:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One big question: Why can't we 3D print functioning organs today?]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.trendhunter.com/trends/food-ink</link>
             <guid isPermaLink="false">6f32c713-64b4-4ac5-93bd-82dfce5a5805</guid>
             <pubDate>Thu, 25 Aug 2016 18:51:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Whimsical 3D-Printed Figurines : Wondermooi]]></title>
-            <description><![CDATA[<article><h1>Whimsical 3D-Printed Figurines : Wondermooi</h1><p>Wondermooi - In collaboration with Belgian fashion designer Walter van Beirendonck, IKEA is now helping people to infuse their homes with a bit of whimsy from &...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6c37e4ee95f0090faf37e8e44fd51d4c/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2Fwondermooi.jpeg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/wondermooi</link>
-            <guid isPermaLink="false">55d103c6-aa62-40ee-b7ee-25b742244ef9</guid>
-            <pubDate>Thu, 25 Aug 2016 18:51:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
