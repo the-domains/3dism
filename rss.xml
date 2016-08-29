@@ -4,7 +4,7 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 19:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 19:27:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How 3D Printing Fuels STEAM Education]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.stratasys.com/2016/07/07/3d-printing-steam-education/</link>
             <guid isPermaLink="false">2a8aa35b-fc3c-4fbf-af9d-5058b89ea7c5</guid>
             <pubDate>Thu, 25 Aug 2016 19:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SCUBA-Loving Hackers Will Want to Check Out This 3D Printed Regulator]]></title>
+            <description><![CDATA[<article><h1>SCUBA-Loving Hackers Will Want to Check Out This 3D Printed Regulator</h1><p>Most of us count down the days to our vacations. While some are off the cuff, many are also well-planned and well-saved for, sending us off to beautiful new destinations to recoup, rejoice, regenerate, and return anew. Sandy beaches and pale blue water are of course always enticing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fd119d7bb20f4aa556867500db8f0179/noop.png?input=https%3A%2F%2F3dprint.com%2Fwp-content%2Fuploads%2F2016%2F08%2FUntitled-88.png"></article>]]></description>
+            <link>https://3dprint.com/147220/scuba-3d-printed-regulator/</link>
+            <guid isPermaLink="false">b14dbd1c-a089-4709-921e-a88d4276f627</guid>
+            <pubDate>Sat, 27 Aug 2016 19:26:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kanèsis Prepares to Launch Kickstarter Campaign for Hemp 3D Printer Filament, HempBioPlastic]]></title>
@@ -68,13 +75,6 @@
             <link>http://qz.com/766198/the-future-of-soft-robotics-a-3d-printed-farting-gummy-octopus/</link>
             <guid isPermaLink="false">770a0c71-3d9c-4d70-af86-4b96a6c9b8d5</guid>
             <pubDate>Thu, 25 Aug 2016 19:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Researchers are now fabricating human tissues with a 3D printer]]></title>
-            <description><![CDATA[<article><h1>Researchers are now fabricating human tissues with a 3D printer</h1><p>In the modern medical world, to receive a skin, bone, organ, or muscle transplant, it has to be from another person. A donor has to supply you with the parts or, in the case of skin grafts, the patient themselves needs to have tissue removed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/099dea5377fd6579d2882e595884c7b5/noop.jpg?input=http%3A%2F%2Fcdn0.dailydot.com%2Fcache%2F7f%2F50%2F7f505d3452fd91641f3b766279f769dd.jpg"></article>]]></description>
-            <link>http://www.dailydot.com/debug/3d-printing-human-tissue/</link>
-            <guid isPermaLink="false">46ba69e3-7482-4c2c-9da8-cb6959c7f5fe</guid>
-            <pubDate>Thu, 25 Aug 2016 19:51:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
