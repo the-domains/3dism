@@ -4,7 +4,7 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 18:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 18:56:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How 3D Printing Fuels STEAM Education]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.stratasys.com/2016/07/07/3d-printing-steam-education/</link>
             <guid isPermaLink="false">2a8aa35b-fc3c-4fbf-af9d-5058b89ea7c5</guid>
             <pubDate>Thu, 25 Aug 2016 19:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Digital Hand: Using Kinect to Create 3D Printed Furniture and Objects]]></title>
+            <description><![CDATA[<article><h1>The Digital Hand: Using Kinect to Create 3D Printed Furniture and Objects</h1><p>Parametric is a favorite word among the digital design community. In fact, one of my colleagues at the university and a good friend of ours used it so often that six years ago, my two-year-old daughter would walk around calling everything parametric. It's a fancy way of saying 'something that exists in relation to a set of parameters.'</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6662b74ec1de219964e0879a588dcb6f/noop.jpg?input=https%3A%2F%2F3dprint.com%2Fwp-content%2Fuploads%2F2016%2F08%2F3063089-slide-2-designing-furniture-with-your-body-not-your-hands.jpg"></article>]]></description>
+            <link>https://3dprint.com/147134/kinect-3d-print-furniture-design/</link>
+            <guid isPermaLink="false">a7dd9d1a-ea0c-4580-8e03-d3bfd3cb1344</guid>
+            <pubDate>Sat, 27 Aug 2016 18:56:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[3D Printing works wonders in the world of cardiology]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.thestreet.com/story/13684533/1/stratasys-latest-moves-show-how-quickly-the-3d-printing-landscape-is-evolving.html</link>
             <guid isPermaLink="false">7b1ccced-64ce-49f8-9238-6a92671fa808</guid>
             <pubDate>Thu, 25 Aug 2016 19:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3D Printing Restaurants : food ink]]></title>
-            <description><![CDATA[<article><h1>3D Printing Restaurants : food ink</h1><p>food ink - Consumers interested in eating 3D-printed food will soon be able to visit the world's first 3D printing restaurant, Food Ink. The idea starte...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/90ae2176faedbd2984cb354a7cca3045/noop.jpeg?input=http%3A%2F%2Fcdn.trendhunterstatic.com%2Fthumbs%2Ffood-ink.jpeg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/food-ink</link>
-            <guid isPermaLink="false">6f32c713-64b4-4ac5-93bd-82dfce5a5805</guid>
-            <pubDate>Thu, 25 Aug 2016 18:51:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
