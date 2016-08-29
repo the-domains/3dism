@@ -4,7 +4,7 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 19:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 19:27:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How 3D Printing Fuels STEAM Education]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.stratasys.com/2016/07/07/3d-printing-steam-education/</link>
             <guid isPermaLink="false">2a8aa35b-fc3c-4fbf-af9d-5058b89ea7c5</guid>
             <pubDate>Thu, 25 Aug 2016 19:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Researchers Create Microstereolithography for 4D Printing, Potential for Impacts in Medical, Solar & More]]></title>
+            <description><![CDATA[<article><h1>Researchers Create Microstereolithography for 4D Printing, Potential for Impacts in Medical, Solar & More</h1><p>Technology can be confusing when it begins moving at such an accelerated rate, perfectly exemplified by the 3D industry, and encompassing all that goes with it, from 3D scanning to 3D printing and then peripheral industries that are often connected too such as augmented and virtual realities.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3201ecfbffb7785a781db95267742cc8/noop.jpg?input=https%3A%2F%2F3dprint.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fsrep31110-f1.jpg"></article>]]></description>
+            <link>https://3dprint.com/147312/microstereolithography-4d-printing/</link>
+            <guid isPermaLink="false">28774f54-f677-481d-b65e-b0f4c2c27583</guid>
+            <pubDate>Sat, 27 Aug 2016 19:26:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SCUBA-Loving Hackers Will Want to Check Out This 3D Printed Regulator]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.3ders.org/articles/20160824-shining-3d-to-form-chinese-3d-printing-ecosystem-aims-to-become-3d-bioprinting-leader.html</link>
             <guid isPermaLink="false">5dd31bcb-7ca1-4341-a00e-d9d92c4152d5</guid>
             <pubDate>Sat, 27 Aug 2016 18:10:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The future of soft robotics: a 3D-printed, farting, gummy octopus]]></title>
-            <description><![CDATA[<article><h1>The future of soft robotics: a 3D-printed, farting, gummy octopus</h1><p>Even as some of us brace for the cephalopod uprising, octopuses have became the favorite animals of robotic engineers. And an adorable palm-sized octopus-robot, made by a group of Harvard researchers, might be the closest robots have ever gotten to the real eight-armed creature of the sea.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c82be768aa9144fbeca0500f30584d0f/noop.jpg?input=https%3A%2F%2Fqzprod.files.wordpress.com%2F2016%2F08%2Foctobot.jpg"></article>]]></description>
-            <link>http://qz.com/766198/the-future-of-soft-robotics-a-3d-printed-farting-gummy-octopus/</link>
-            <guid isPermaLink="false">770a0c71-3d9c-4d70-af86-4b96a6c9b8d5</guid>
-            <pubDate>Thu, 25 Aug 2016 19:52:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
