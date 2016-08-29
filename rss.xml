@@ -4,7 +4,7 @@
         <description><![CDATA[The 3D Revolution]]></description>
         <link>https://thegrid.ai/3dism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 18:56:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 19:26:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How 3D Printing Fuels STEAM Education]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.stratasys.com/2016/07/07/3d-printing-steam-education/</link>
             <guid isPermaLink="false">2a8aa35b-fc3c-4fbf-af9d-5058b89ea7c5</guid>
             <pubDate>Thu, 25 Aug 2016 19:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kanèsis Prepares to Launch Kickstarter Campaign for Hemp 3D Printer Filament, HempBioPlastic]]></title>
+            <description><![CDATA[<article><h1>Kanèsis Prepares to Launch Kickstarter Campaign for Hemp 3D Printer Filament, HempBioPlastic</h1><p>It warms my hippie tree-hugging heart every time I learn of a new 3D printing material designed to preserve the environment. There have been a lot of biologically-based, compostable filaments coming out in the last year; the first two companies that come to mind are Algix 3D, with their algae-based...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/740d701916b7655b0c9068b55d0a98c8/noop.jpg?input=https%3A%2F%2F3dprint.com%2Fwp-content%2Fuploads%2F2016%2F08%2F13876411_511752082356936_7246836384966029596_n.jpg"></article>]]></description>
+            <link>https://3dprint.com/147273/kanesis-kickstarter-hemp/</link>
+            <guid isPermaLink="false">4de5b58e-9ca7-4f65-aaa2-74cfd7783eeb</guid>
+            <pubDate>Sat, 27 Aug 2016 19:26:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Digital Hand: Using Kinect to Create 3D Printed Furniture and Objects]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.dailydot.com/debug/3d-printing-human-tissue/</link>
             <guid isPermaLink="false">46ba69e3-7482-4c2c-9da8-cb6959c7f5fe</guid>
             <pubDate>Thu, 25 Aug 2016 19:51:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stratasys' latest moves show how quickly the 3D printing landscape is evolving]]></title>
-            <description><![CDATA[<article><h1>Stratasys' latest moves show how quickly the 3D printing landscape is evolving</h1><p>In some ways, the present-day 3D printing/additive manufacturing industry has much in common with the PC industry in the early-to-mid '80s. Penetration rates are still low, technologies and standards are rapidly evolving and figuring out who the winners and losers will be a decade from now is far from easy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/039663f0442917501ab30f87128e69f6/noop.jpg?input=http%3A%2F%2Fs.thestreet.com%2Ffiles%2Ftsc%2Fv2008%2Fphotos%2Fcontrib%2Fuploads%2F3dprinter.jpg"></article>]]></description>
-            <link>https://www.thestreet.com/story/13684533/1/stratasys-latest-moves-show-how-quickly-the-3d-printing-landscape-is-evolving.html</link>
-            <guid isPermaLink="false">7b1ccced-64ce-49f8-9238-6a92671fa808</guid>
-            <pubDate>Thu, 25 Aug 2016 19:49:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
